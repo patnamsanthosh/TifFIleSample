@@ -1,0 +1,7 @@
+C:\Users\santh\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\TfiFile.exe.config
+C:\Users\santh\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\TfiFile.exe
+C:\Users\santh\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\TfiFile.pdb
+C:\Users\santh\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\TifFile.csprojAssemblyReference.cache
+C:\Users\santh\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\TifFile.csproj.CoreCompileInputs.cache
+C:\Users\santh\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\TfiFile.exe
+C:\Users\santh\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\TfiFile.pdb
